@@ -1,9 +1,9 @@
 {
-  "name": "ff-reload",
-  "title": "ff-reload",
+  "name": "ff-average-page-speed",
+  "title": "ff-average-page-speed",
   "id": "jid1-Rg6Fw072HSm62A",
-  "description": "a basic add-on",
-  "author": "",
+  "description": "An add-on that measures the average page reload time over several tries",
+  "author": "Maarten Kuiper",
   "license": "MPL 2.0",
   "version": "0.1"
 }
