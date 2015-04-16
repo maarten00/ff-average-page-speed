@@ -5,5 +5,7 @@
   "description": "An add-on that measures the average page reload time over several tries",
   "author": "Maarten Kuiper",
   "license": "MPL 2.0",
-  "version": "0.1"
+  "version": "0.1",
+  "permissions": {"private-browsing": true}
+
 }
